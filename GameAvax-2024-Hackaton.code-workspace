@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "GameAvax-2024-Hackaton",
+			"path": "."
+		},
+		{
+			"name": "UnityJuego",
+			"path": "../UnityJuego"
+		}
+	],
+	"settings": {}
+}
