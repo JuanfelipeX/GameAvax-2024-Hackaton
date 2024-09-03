@@ -51,6 +51,9 @@ Si tienes alguna pregunta o deseas colaborar en el proyecto, no dudes en contact
 
 [![Ver video](https://img.youtube.com/vi/7FVco5bogn0/maxresdefault.jpg)](https://www.youtube.com/watch?v=7FVco5bogn0&t=27081s)
 
+## **TEAM**
+
+![Equipo Hackaton 1 Puesto :)](https://github.com/user-attachments/assets/9e0e05ec-9a05-4e01-878a-08206332c6a2)
 
 
 
@@ -65,16 +68,33 @@ https://github.com/user-attachments/assets/4b2cc86c-6905-47a2-a85e-79ee3c91ee00
 
 - **NFT:**
 
+[![Ver video](https://img.youtube.com/vi/C_B7d2UjFrQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=C_B7d2UjFrQ&feature=youtu.be)
+
 ![Envio de NFT Postman](https://github.com/user-attachments/assets/60f7c288-27c8-468b-a537-469991d0b6c7)
+
+
+- **SmartContract:**
+
+https://github.com/user-attachments/assets/f383abb9-220b-4241-bd00-99ca10291ac6
+
+![ERC721 - SmartContract NFT ](https://github.com/user-attachments/assets/37f36aa5-c5a1-4de7-b2b9-7fb64d2869b8)
+
+
+- **Pinata IPFS:**
+
+![Protocol IPFS Pinata para guardar las imagenes ](https://github.com/user-attachments/assets/6eb6856b-532e-4e8a-82ec-4b7561cb8aee)
 
   
 - **Subnet Token Avameral:**
+
+[![Ver video](https://img.youtube.com/vi/wXrrcMJAuGg/maxresdefault.jpg)](https://youtu.be/wXrrcMJAuGg)
 
 ![Token Avamerald](https://github.com/user-attachments/assets/ce0c2e05-62cf-401d-bf7c-99a4cacee5ca)
 
 ![Token Avamerald Core](https://github.com/user-attachments/assets/3b5dbc50-b239-4bca-9645-aeee7438f8f1)
 
 ![Token Avamerald Metamask](https://github.com/user-attachments/assets/e3a1a9a2-526d-4717-841e-25c5a46c3e48)
+
 
 
 
